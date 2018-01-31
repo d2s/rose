@@ -16,7 +16,7 @@ const CardWrapper = glamorous.div({
   borderRadius: 5,
   borderColor: '#000',
   borderWidth: 1,
-  borderStyle: 'solid',
+  borderStyle: 'solid'
 });
 
 // Header wrapper
@@ -26,7 +26,7 @@ const CardHeader = glamorous.header({
   padding: 0,
   display: 'block',
   width: 'auto',
-  textAlign: 'left',
+  textAlign: 'left'
 });
 
 // h1 Main title
@@ -38,7 +38,7 @@ const CardTitle = glamorous.h1({
   margin: 0,
   display: 'inline-block',
   fontSize: '1.2em',
-  fontWeight: 500,
+  fontWeight: 500
 });
 
 // Card content wrapper
@@ -50,7 +50,7 @@ const CardContent = glamorous.div({
   width: 'auto',
   textAlign: 'left',
   borderBottomLeftRadius: 5,
-  borderBottomRightRadius: 5,
+  borderBottomRightRadius: 5
 });
 
 /**
@@ -61,11 +61,11 @@ class Card extends Component {
     /** Text string for the card title, with a fallback defaultProps text if not specified. */
     title: PropTypes.string,
     /** Card content, with a fallback defaultProps if not specified. */
-    content: PropTypes.any,
+    content: PropTypes.any
   }
   static defaultProps = {
     title: 'Card title',
-    content: null,
+    content: null
   }
 
   render() {

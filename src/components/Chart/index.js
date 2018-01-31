@@ -42,11 +42,11 @@ class Chart extends Component {
     /** Text string for the Chart title, with a fallback defaultProps text if not specified. */
     title: PropTypes.string,
     /** Chart content. */
-    content: PropTypes.any,
+    content: PropTypes.any
   }
   static defaultProps = {
     title: 'Chart title',
-    content: null,
+    content: null
   }
 
   render() {

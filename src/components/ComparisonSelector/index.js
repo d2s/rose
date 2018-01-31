@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import glamorous, {ThemeProvider} from 'glamorous'
+// import glamorous, {ThemeProvider} from 'glamorous'
 
 // Currency comparison selector
 // const ComparisonSelectorStyles = glamorous.div({
@@ -16,11 +16,11 @@ class ComparisonSelector extends Component {
     /** Base currency in the comparison. */
     fromCurrency: PropTypes.string,
     /** Other currency to compare the base currency with. */
-    toCurrency: PropTypes.string,
+    toCurrency: PropTypes.string
   }
   static defaultProps = {
     fromCurrency: 'EUR',
-    toCurrency: 'USD',
+    toCurrency: 'USD'
   }
 
   render() {

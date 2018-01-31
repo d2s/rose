@@ -35,10 +35,10 @@ const AppTitle = glamorous.h1({
 class Header extends Component {
   static propTypes = {
     /** Name of the application. */
-    title: PropTypes.string,
+    title: PropTypes.string
   }
   static defaultProps = {
-    title: 'Currency Exchange',
+    title: 'Currency Exchange'
   }
 
   render() {

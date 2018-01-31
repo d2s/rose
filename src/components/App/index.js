@@ -13,7 +13,7 @@ import Chart from '../Chart';
 // Wrapper element for the App component
 const AppWrapper = glamorous.div({
   fontSize: 18,
-  textAlign: 'center',
+  textAlign: 'center'
 });
 
 // App content wrapper
@@ -23,7 +23,7 @@ const ContentWrapper = glamorous.div({
   padding: 0,
   display: 'block',
   width: 'auto',
-  textAlign: 'left',
+  textAlign: 'left'
 });
 
 /**
@@ -34,7 +34,7 @@ class App extends Component {
     /** Name of the application. */
     title: PropTypes.string,
     /** Pack of cards. */
-    cards: PropTypes.any,
+    cards: PropTypes.any
   }
   static defaultProps = {
     title: 'Currency Exchange',

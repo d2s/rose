@@ -1,8 +1,7 @@
 module.exports = {
   ignore: [
     '**/*.spec.js',
-    '**/*.test.js',
-    // '**/components/App/*'
+    '**/*.test.js'
   ],
   sections: [
     {
