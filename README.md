@@ -60,7 +60,7 @@ If you want to make a static version of the style guide for people to look at, r
 yarn run styleguide:build
 ```
 
-### Building production version of the application
+### Building a production version of the application
 
 After you have developed and tested things locally, you can use the following command to build a production version of the application.
 
@@ -68,9 +68,15 @@ After you have developed and tested things locally, you can use the following co
 yarn run build
 ```
 
-### Deploying application to a production
+### Deploying the application to a production environment
 
 _TODO:_ More detailed instructions on how to deploy the application to an real world environment should be written.
 
+- Static site hosting for the React-based SPA (Single Page Application)
+- Static site hosting for the style guide
 
+
+### Automated testing with 3rd party services
+
+_TODO:_ Write details on how this application will be tested with 3rd party automated services for the code quality analysis and continuous integration (CI).
 
