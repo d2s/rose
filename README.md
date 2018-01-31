@@ -2,6 +2,9 @@
 
 _“Currency Exchange” dashboard using React_
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/fe6d5b787b6ab5f5e871/maintainability)](https://codeclimate.com/github/d2s/rose/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/fe6d5b787b6ab5f5e871/test_coverage)](https://codeclimate.com/github/d2s/rose/test_coverage)
+
 
 ## Local development
 
