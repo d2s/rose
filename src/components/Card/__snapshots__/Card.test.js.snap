@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> with Snapshot Testing renders the same way 1`] = `
+<div
+  className="css-1oq7lj6"
+>
+  <header
+    className="css-7i6bp6"
+  >
+    <h1
+      className="css-1x5veox"
+    >
+      Card title
+    </h1>
+  </header>
+  <div
+    className="css-1ryc7tm"
+  />
+</div>
+`;

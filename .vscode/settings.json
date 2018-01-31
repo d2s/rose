@@ -1,0 +1,6 @@
+{
+    // ==================================
+    // Jest extension settings
+    // Automatically start Jest projects
+    // "jest.autoEnable": true,
+}

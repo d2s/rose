@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ComparisonSelector /> with Snapshot Testing renders the same way 1`] = `
+<div>
+  from 
+  EUR
+   to [
+  USD
+  ]
+</div>
+`;

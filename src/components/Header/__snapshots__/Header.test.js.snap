@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> with Snapshot Testing renders the same way 1`] = `
+<header
+  className="css-4a4fao"
+>
+  <h1
+    className="css-s4y834"
+  >
+    Currency Exchange
+  </h1>
+  <div>
+    from 
+    EUR
+     to [
+    USD
+    ]
+  </div>
+</header>
+`;
