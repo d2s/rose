@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-// import glamorous, {ThemeProvider} from 'glamorous'
+// import glamorous, {ThemeProvider} from 'glamorous';
 
 // Currency comparison selector
 // const ComparisonSelectorStyles = glamorous.div({
