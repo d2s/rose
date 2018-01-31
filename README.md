@@ -84,3 +84,8 @@ _TODO:_ More detailed instructions on how to deploy the application to an real w
 
 _TODO:_ Write details on how this application will be tested with 3rd party automated services for the code quality analysis and continuous integration (CI).
 
+
+
+## Git commit guidelines
+
+This project's Git commit messages should follow the naming conventions of the [AngularJS](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits) project.
