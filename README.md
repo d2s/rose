@@ -84,6 +84,33 @@ _TODO:_ More detailed instructions on how to deploy the application to an real w
 
 _TODO:_ Write details on how this application will be tested with 3rd party automated services for the code quality analysis and continuous integration (CI).
 
+#### Running tests locally
+
+You can simulate CI server's build environment with:
+
+```sh
+CI=true yarn run build
+```
+
+You can simulate CI server's test environment with:
+
+```sh
+CI=true yarn run build
+```
+
+> Treating warnings as errors because process.env.CI = true.
+> Most CI servers set it automatically.
+
+You could have a Git pre-commit hook that would check if there are any warnings (before allowing you to commit code to the Git repository). That would potentially reduce the potential issues in the future, while making sure that the code does not fall too much apart.
+
+It is recommended to run the tests locally before you commit to the Git repository.
+
+
+#### Running tests with CI server
+
+- `.travis.yml` file contains the settings for the [Travis CI](https://docs.travis-ci.com/user/getting-started/) service.
+  - [Building a JavaScript and Node.js project](https://docs.travis-ci.com/user/languages/javascript-with-nodejs/) page has more instructions for running Node.js projects.
+    - Remember that this project uses `yarn` instead of `npm` for managing dependencies. You should only use one of them, as there is an [issue](https://github.com/yarnpkg/yarn/issues/5240) (_"npm install" deletes everything from a Yarn-produced tree_) related to overlapping package managers.
 
 
 ## Git commit guidelines
