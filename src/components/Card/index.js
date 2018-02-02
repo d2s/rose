@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import glamorous, {ThemeProvider} from 'glamorous';
+import glamorous from 'glamorous';
 
 // Load required components from other directories
 // import ComparisonSelector from '../ComparisonSelector';

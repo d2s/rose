@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import glamorous, {ThemeProvider} from 'glamorous'
+import glamorous from 'glamorous';
 import XRay from 'react-x-ray'; // Layout debugging tools
 
 // Load required components from other directories

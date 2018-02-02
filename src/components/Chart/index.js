@@ -2,14 +2,14 @@ import React, { Component } from 'react';
 // aimport ReactDOM from 'react-dom';
 import { VictoryBar, VictoryChart, VictoryAxis, VictoryTheme } from 'victory';
 import PropTypes from 'prop-types';
-import glamorous, {ThemeProvider} from 'glamorous';
+import glamorous from 'glamorous';
 
 // Load required components from other directories
 
 
 /**
  * Example data
- * 
+ *
  * - http://fixer.io/
  * - https://api.fixer.io/2018-01-24
  * - https://api.fixer.io/2018-01-30
@@ -83,7 +83,7 @@ class Chart extends Component {
             data={data}
             x="date"
             y="USD"
-            labels={(d) => `${d.y}`}             
+            labels={(d) => `${d.y}`}
             barRatio={0.6}
             style={{
               labels: {
