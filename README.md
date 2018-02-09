@@ -7,20 +7,17 @@ _“Currency Exchange” dashboard using React_
 [![Test Coverage](https://api.codeclimate.com/v1/badges/fe6d5b787b6ab5f5e871/test_coverage)](https://codeclimate.com/github/d2s/rose/test_coverage)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2364edd47e2e4ee3a05f8aefe967e64c)](https://www.codacy.com/app/d2s/rose?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=d2s/rose&amp;utm_campaign=Badge_Grade)
 
-
 ## Local development
-
 
 ### Install development dependencies
 
-Requires that you first install [Yarn](https://yarnpkg.com/lang/en/) for managing the packages, and [Node.js](https://nodejs.org/en/) for running the software itself. You might also want to read a bit more details on about [how to install Node.js with nvm](https://gist.github.com/d2s/372b5943bce17b964a79) to Linux or macOS. 
+Requires that you first install [Yarn](https://yarnpkg.com/lang/en/) for managing the packages, and [Node.js](https://nodejs.org/en/) for running the software itself. You might also want to read a bit more details on about [how to install Node.js with nvm](https://gist.github.com/d2s/372b5943bce17b964a79) to Linux or macOS.
 
 After you have installed those, run the following command on your command line terminal (in the directory of this project's files) to automatically download and install the required [npm](https://www.npmjs.com/) packages for you. More detailed notes about [how to use Yarn](https://yarnpkg.com/en/docs/usage) can be read from the their documentation.
 
 ```sh
 yarn install
 ```
-
 
 ### Start application
 
@@ -46,12 +43,11 @@ Report about the code coverage of the test suite can be generated with:
 yarn run coverage
 ```
 
-
 ### Style guide
 
 Develop & debug individual React components with the [React Styleguidist](https://react-styleguidist.js.org/). It is an isolated React component development environment, with a living style guide.
 
-#### Start the local styleguide with:
+#### Start the local styleguide with
 
 ```sh
 yarn run styleguide
@@ -80,7 +76,6 @@ _TODO:_ More detailed instructions on how to deploy the application to an real w
 - Static site hosting for the React-based SPA (Single Page Application)
 - Static site hosting for the style guide
 
-
 ### Automated testing with 3rd party services
 
 _TODO:_ Write details on how this application will be tested with 3rd party automated services for the code quality analysis and continuous integration (CI).
@@ -106,13 +101,11 @@ You could have a Git pre-commit hook that would check if there are any warnings 
 
 It is recommended to run the tests locally before you commit to the Git repository.
 
-
 #### Running tests with CI server
 
 - `.travis.yml` file contains the settings for the [Travis CI](https://docs.travis-ci.com/user/getting-started/) service.
   - [Building a JavaScript and Node.js project](https://docs.travis-ci.com/user/languages/javascript-with-nodejs/) page has more instructions for running Node.js projects.
     - Remember that this project uses `yarn` instead of `npm` for managing dependencies. You should only use one of them, as there is an [issue](https://github.com/yarnpkg/yarn/issues/5240) (_"npm install" deletes everything from a Yarn-produced tree_) related to overlapping package managers.
-
 
 ## Git commit guidelines
 
