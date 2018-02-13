@@ -91,7 +91,7 @@ CI=true yarn run build
 You can simulate CI server's test environment with:
 
 ```sh
-CI=true yarn run build
+CI=true yarn run test
 ```
 
 > Treating warnings as errors because process.env.CI = true.
