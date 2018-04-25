@@ -10,7 +10,7 @@
     "ramda": "^0.25.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.0",
+    "react-scripts": "1.1.1",
     "react-styleguidist": "^6.2.0",
     "react-x-ray": "^1.0.0-4",
     "victory": "^0.24.5"
