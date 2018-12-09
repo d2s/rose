@@ -9,11 +9,12 @@
     "prop-types": "^15.6.0",
     "ramda": "^0.25.0",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react-dom": "^16.2.1",
     "react-scripts": "1.1.1",
     "react-styleguidist": "^6.2.0",
     "react-x-ray": "^1.0.0-4",
-    "victory": "^0.24.5"
+    "victory": "^0.24.5",
+    "snyk": "^1.116.2"
   },
   "scripts": {
     "styleguide": "styleguidist server",
@@ -22,11 +23,14 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "coverage": "npm test -- --coverage"
+    "coverage": "npm test -- --coverage",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "devDependencies": {
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
     "react-test-renderer": "^16.2.0"
-  }
+  },
+  "snyk": true
 }
