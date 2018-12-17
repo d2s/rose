@@ -25,7 +25,7 @@
     "eject": "react-scripts eject",
     "coverage": "yarn run test -- --coverage",
     "snyk-protect": "snyk protect",
-    "disabled-temporary-prepublish": "yarn run snyk-protect"
+    "prepublish": "yarn run snyk-protect"
   },
   "devDependencies": {
     "enzyme": "^3.8.0",
