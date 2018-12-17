@@ -1,19 +1,19 @@
 {
   "name": "rose",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "homepage": "https://currency.netlify.com",
   "dependencies": {
     "glamor": "^2.20.40",
     "glamorous": "^4.11.4",
-    "prop-types": "^15.6.0",
-    "ramda": "^0.25.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.1",
-    "react-scripts": "1.1.1",
-    "react-styleguidist": "^6.2.0",
+    "prop-types": "^15.6.2",
+    "ramda": "^0.26.1",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1",
+    "react-styleguidist": "^8.0.6",
     "react-x-ray": "^1.0.0-4",
-    "victory": "^0.24.5",
+    "victory": "^31.0.2",
     "snyk": "^1.116.2"
   },
   "scripts": {
@@ -28,9 +28,9 @@
     "prepublish": "npm run snyk-protect"
   },
   "devDependencies": {
-    "enzyme": "^3.3.0",
-    "enzyme-adapter-react-16": "^1.1.1",
-    "react-test-renderer": "^16.2.0"
+    "enzyme": "^3.8.0",
+    "enzyme-adapter-react-16": "^1.7.1",
+    "react-test-renderer": "^16.6.3"
   },
   "snyk": true
 }
