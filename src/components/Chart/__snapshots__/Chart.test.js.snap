@@ -35,7 +35,6 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
         role="presentation"
       >
         <line
-          className={undefined}
           role="presentation"
           shapeRendering="auto"
           style={
@@ -57,13 +56,12 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           role="presentation"
         >
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
               Object {
                 "fill": "none",
-                "pointerEvents": "visible",
+                "pointerEvents": "painted",
                 "stroke": "#ECEFF1",
                 "strokeDasharray": "10, 5",
                 "strokeLinecap": "round",
@@ -77,7 +75,6 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={50}
           />
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
@@ -97,16 +94,14 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={155}
           />
           <text
-            className={undefined}
+            direction="inherit"
             dx={0}
             dy={5.13}
-            transform={undefined}
             x={78.66831072749692}
             y={160}
           >
             <tspan
               dx={0}
-              dy={undefined}
               style={
                 Object {
                   "fill": "#455A64",
@@ -129,13 +124,12 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           role="presentation"
         >
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
               Object {
                 "fill": "none",
-                "pointerEvents": "visible",
+                "pointerEvents": "painted",
                 "stroke": "#ECEFF1",
                 "strokeDasharray": "10, 5",
                 "strokeLinecap": "round",
@@ -149,7 +143,6 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={50}
           />
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
@@ -169,16 +162,14 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={155}
           />
           <text
-            className={undefined}
+            direction="inherit"
             dx={0}
             dy={5.13}
-            transform={undefined}
             x={110.77887381833128}
             y={160}
           >
             <tspan
               dx={0}
-              dy={undefined}
               style={
                 Object {
                   "fill": "#455A64",
@@ -201,13 +192,12 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           role="presentation"
         >
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
               Object {
                 "fill": "none",
-                "pointerEvents": "visible",
+                "pointerEvents": "painted",
                 "stroke": "#ECEFF1",
                 "strokeDasharray": "10, 5",
                 "strokeLinecap": "round",
@@ -221,7 +211,6 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={50}
           />
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
@@ -241,16 +230,14 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={155}
           />
           <text
-            className={undefined}
+            direction="inherit"
             dx={0}
             dy={5.13}
-            transform={undefined}
             x={142.88943690916562}
             y={160}
           >
             <tspan
               dx={0}
-              dy={undefined}
               style={
                 Object {
                   "fill": "#455A64",
@@ -273,13 +260,12 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           role="presentation"
         >
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
               Object {
                 "fill": "none",
-                "pointerEvents": "visible",
+                "pointerEvents": "painted",
                 "stroke": "#ECEFF1",
                 "strokeDasharray": "10, 5",
                 "strokeLinecap": "round",
@@ -293,7 +279,6 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={50}
           />
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
@@ -313,16 +298,14 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={155}
           />
           <text
-            className={undefined}
+            direction="inherit"
             dx={0}
             dy={5.13}
-            transform={undefined}
             x={175}
             y={160}
           >
             <tspan
               dx={0}
-              dy={undefined}
               style={
                 Object {
                   "fill": "#455A64",
@@ -345,13 +328,12 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           role="presentation"
         >
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
               Object {
                 "fill": "none",
-                "pointerEvents": "visible",
+                "pointerEvents": "painted",
                 "stroke": "#ECEFF1",
                 "strokeDasharray": "10, 5",
                 "strokeLinecap": "round",
@@ -365,7 +347,6 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={50}
           />
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
@@ -385,16 +366,14 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={155}
           />
           <text
-            className={undefined}
+            direction="inherit"
             dx={0}
             dy={5.13}
-            transform={undefined}
             x={207.11056309083435}
             y={160}
           >
             <tspan
               dx={0}
-              dy={undefined}
               style={
                 Object {
                   "fill": "#455A64",
@@ -417,13 +396,12 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           role="presentation"
         >
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
               Object {
                 "fill": "none",
-                "pointerEvents": "visible",
+                "pointerEvents": "painted",
                 "stroke": "#ECEFF1",
                 "strokeDasharray": "10, 5",
                 "strokeLinecap": "round",
@@ -437,7 +415,6 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={50}
           />
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
@@ -457,16 +434,14 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={155}
           />
           <text
-            className={undefined}
+            direction="inherit"
             dx={0}
             dy={5.13}
-            transform={undefined}
             x={239.22112618166872}
             y={160}
           >
             <tspan
               dx={0}
-              dy={undefined}
               style={
                 Object {
                   "fill": "#455A64",
@@ -489,13 +464,12 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           role="presentation"
         >
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
               Object {
                 "fill": "none",
-                "pointerEvents": "visible",
+                "pointerEvents": "painted",
                 "stroke": "#ECEFF1",
                 "strokeDasharray": "10, 5",
                 "strokeLinecap": "round",
@@ -509,7 +483,6 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={50}
           />
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
@@ -529,16 +502,14 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             y2={155}
           />
           <text
-            className={undefined}
+            direction="inherit"
             dx={0}
             dy={5.13}
-            transform={undefined}
             x={271.33168927250307}
             y={160}
           >
             <tspan
               dx={0}
-              dy={undefined}
               style={
                 Object {
                   "fill": "#455A64",
@@ -562,7 +533,6 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
         role="presentation"
       >
         <line
-          className={undefined}
           role="presentation"
           shapeRendering="auto"
           style={
@@ -584,13 +554,12 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           role="presentation"
         >
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
               Object {
                 "fill": "none",
-                "pointerEvents": "visible",
+                "pointerEvents": "painted",
                 "stroke": "#ECEFF1",
                 "strokeDasharray": "10, 5",
                 "strokeLinecap": "round",
@@ -600,11 +569,10 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             vectorEffect="non-scaling-stroke"
             x1={50}
             x2={300}
-            y1={121.07492519975656}
-            y2={121.07492519975656}
+            y1={132.53378991170916}
+            y2={132.53378991170916}
           />
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
@@ -620,20 +588,18 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             vectorEffect="non-scaling-stroke"
             x1={50}
             x2={45}
-            y1={121.07492519975656}
-            y2={121.07492519975656}
+            y1={132.53378991170916}
+            y2={132.53378991170916}
           />
           <text
-            className={undefined}
+            direction="inherit"
             dx={0}
             dy={2.13}
-            transform={undefined}
             x={40}
-            y={121.07492519975656}
+            y={132.53378991170916}
           >
             <tspan
               dx={0}
-              dy={undefined}
               style={
                 Object {
                   "fill": "#455A64",
@@ -648,7 +614,7 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
               textAnchor="end"
               x={40}
             >
-              $0.5
+              $2
             </tspan>
           </text>
         </g>
@@ -656,13 +622,12 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           role="presentation"
         >
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
               Object {
                 "fill": "none",
-                "pointerEvents": "visible",
+                "pointerEvents": "painted",
                 "stroke": "#ECEFF1",
                 "strokeDasharray": "10, 5",
                 "strokeLinecap": "round",
@@ -672,11 +637,10 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             vectorEffect="non-scaling-stroke"
             x1={50}
             x2={300}
-            y1={92.14985039951313}
-            y2={92.14985039951313}
+            y1={115.06757982341836}
+            y2={115.06757982341836}
           />
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
@@ -692,20 +656,18 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             vectorEffect="non-scaling-stroke"
             x1={50}
             x2={45}
-            y1={92.14985039951313}
-            y2={92.14985039951313}
+            y1={115.06757982341836}
+            y2={115.06757982341836}
           />
           <text
-            className={undefined}
+            direction="inherit"
             dx={0}
             dy={2.13}
-            transform={undefined}
             x={40}
-            y={92.14985039951313}
+            y={115.06757982341836}
           >
             <tspan
               dx={0}
-              dy={undefined}
               style={
                 Object {
                   "fill": "#455A64",
@@ -720,7 +682,7 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
               textAnchor="end"
               x={40}
             >
-              $1
+              $4
             </tspan>
           </text>
         </g>
@@ -728,13 +690,12 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           role="presentation"
         >
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
               Object {
                 "fill": "none",
-                "pointerEvents": "visible",
+                "pointerEvents": "painted",
                 "stroke": "#ECEFF1",
                 "strokeDasharray": "10, 5",
                 "strokeLinecap": "round",
@@ -744,11 +705,10 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             vectorEffect="non-scaling-stroke"
             x1={50}
             x2={300}
-            y1={63.224775599269705}
-            y2={63.224775599269705}
+            y1={97.60136973512755}
+            y2={97.60136973512755}
           />
           <line
-            className={undefined}
             role="presentation"
             shapeRendering="auto"
             style={
@@ -764,20 +724,18 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             vectorEffect="non-scaling-stroke"
             x1={50}
             x2={45}
-            y1={63.224775599269705}
-            y2={63.224775599269705}
+            y1={97.60136973512755}
+            y2={97.60136973512755}
           />
           <text
-            className={undefined}
+            direction="inherit"
             dx={0}
             dy={2.13}
-            transform={undefined}
             x={40}
-            y={63.224775599269705}
+            y={97.60136973512755}
           >
             <tspan
               dx={0}
-              dy={undefined}
               style={
                 Object {
                   "fill": "#455A64",
@@ -792,7 +750,143 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
               textAnchor="end"
               x={40}
             >
-              $1.5
+              $6
+            </tspan>
+          </text>
+        </g>
+        <g
+          role="presentation"
+        >
+          <line
+            role="presentation"
+            shapeRendering="auto"
+            style={
+              Object {
+                "fill": "none",
+                "pointerEvents": "painted",
+                "stroke": "#ECEFF1",
+                "strokeDasharray": "10, 5",
+                "strokeLinecap": "round",
+                "strokeLinejoin": "round",
+              }
+            }
+            vectorEffect="non-scaling-stroke"
+            x1={50}
+            x2={300}
+            y1={80.13515964683671}
+            y2={80.13515964683671}
+          />
+          <line
+            role="presentation"
+            shapeRendering="auto"
+            style={
+              Object {
+                "fill": "transparent",
+                "size": 5,
+                "stroke": "grey",
+                "strokeLinecap": "round",
+                "strokeLinejoin": "round",
+                "strokeWidth": 1,
+              }
+            }
+            vectorEffect="non-scaling-stroke"
+            x1={50}
+            x2={45}
+            y1={80.13515964683671}
+            y2={80.13515964683671}
+          />
+          <text
+            direction="inherit"
+            dx={0}
+            dy={2.13}
+            x={40}
+            y={80.13515964683671}
+          >
+            <tspan
+              dx={0}
+              style={
+                Object {
+                  "fill": "#455A64",
+                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontSize": 6,
+                  "letterSpacing": "normal",
+                  "padding": 5,
+                  "stroke": "transparent",
+                  "strokeWidth": 0,
+                }
+              }
+              textAnchor="end"
+              x={40}
+            >
+              $8
+            </tspan>
+          </text>
+        </g>
+        <g
+          role="presentation"
+        >
+          <line
+            role="presentation"
+            shapeRendering="auto"
+            style={
+              Object {
+                "fill": "none",
+                "pointerEvents": "painted",
+                "stroke": "#ECEFF1",
+                "strokeDasharray": "10, 5",
+                "strokeLinecap": "round",
+                "strokeLinejoin": "round",
+              }
+            }
+            vectorEffect="non-scaling-stroke"
+            x1={50}
+            x2={300}
+            y1={62.668949558545904}
+            y2={62.668949558545904}
+          />
+          <line
+            role="presentation"
+            shapeRendering="auto"
+            style={
+              Object {
+                "fill": "transparent",
+                "size": 5,
+                "stroke": "grey",
+                "strokeLinecap": "round",
+                "strokeLinejoin": "round",
+                "strokeWidth": 1,
+              }
+            }
+            vectorEffect="non-scaling-stroke"
+            x1={50}
+            x2={45}
+            y1={62.668949558545904}
+            y2={62.668949558545904}
+          />
+          <text
+            direction="inherit"
+            dx={0}
+            dy={2.13}
+            x={40}
+            y={62.668949558545904}
+          >
+            <tspan
+              dx={0}
+              style={
+                Object {
+                  "fill": "#455A64",
+                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontSize": 6,
+                  "letterSpacing": "normal",
+                  "padding": 5,
+                  "stroke": "transparent",
+                  "strokeWidth": 0,
+                }
+              }
+              textAnchor="end"
+              x={40}
+            >
+              $10
             </tspan>
           </text>
         </g>
@@ -801,184 +895,161 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
         role="presentation"
       >
         <path
-          className={undefined}
-          d="M 70.33497739416359, 150
-              L 70.33497739416359, 78.54349521347862
-              A 0 0 0 0 1, 70.33497739416359, 78.54349521347862
-              L 87.00164406083024, 78.54349521347862
-              A 0 0 0 0 1, 87.00164406083024, 78.54349521347862
-              L 87.00164406083024, 150
-              L 70.33497739416359, 150
-              z"
+          d="M 70.33497739416359, 150 
+A 0 0 0 0 1, 70.33497739416359, 150 
+L 70.33497739416359, 139.2128686494716 
+A 0 0 0 0 1, 70.33497739416359, 139.2128686494716 
+L 87.00164406083024, 139.2128686494716 
+A 0 0 0 0 1, 87.00164406083024, 139.2128686494716 
+L 87.00164406083024, 150 
+A 0 0 0 0 1, 87.00164406083024, 150 
+ z"
           role="presentation"
           shapeRendering="auto"
           style={
             Object {
-              "USD": 1.2352,
-              "date": 1,
               "fill": "#455A64",
               "padding": 8,
               "stroke": "#455A64",
               "strokeWidth": 0,
             }
           }
-          transform={undefined}
         />
         <path
-          className={undefined}
-          d="M 102.44554048499795, 150
-              L 102.44554048499795, 78.22531939067595
-              A 0 0 0 0 1, 102.44554048499795, 78.22531939067595
-              L 119.1122071516646, 78.22531939067595
-              A 0 0 0 0 1, 119.1122071516646, 78.22531939067595
-              L 119.1122071516646, 150
-              L 102.44554048499795, 150
-              z"
+          d="M 102.44554048499795, 150 
+A 0 0 0 0 1, 102.44554048499795, 150 
+L 102.44554048499795, 130.4317315275834 
+A 0 0 0 0 1, 102.44554048499795, 130.4317315275834 
+L 119.1122071516646, 130.4317315275834 
+A 0 0 0 0 1, 119.1122071516646, 130.4317315275834 
+L 119.1122071516646, 150 
+A 0 0 0 0 1, 119.1122071516646, 150 
+ z"
           role="presentation"
           shapeRendering="auto"
           style={
             Object {
-              "USD": 1.2407,
-              "date": 2,
               "fill": "#455A64",
               "padding": 8,
               "stroke": "#455A64",
               "strokeWidth": 0,
             }
           }
-          transform={undefined}
         />
         <path
-          className={undefined}
-          d="M 134.55610357583228, 150
-              L 134.55610357583228, 78.05755395683454
-              A 0 0 0 0 1, 134.55610357583228, 78.05755395683454
-              L 151.22277024249897, 78.05755395683454
-              A 0 0 0 0 1, 151.22277024249897, 78.05755395683454
-              L 151.22277024249897, 150
-              L 134.55610357583228, 150
-              z"
+          d="M 134.55610357583228, 150 
+A 0 0 0 0 1, 134.55610357583228, 150 
+L 134.55610357583228, 121.67330047880995 
+A 0 0 0 0 1, 134.55610357583228, 121.67330047880995 
+L 151.22277024249897, 121.67330047880995 
+A 0 0 0 0 1, 151.22277024249897, 121.67330047880995 
+L 151.22277024249897, 150 
+A 0 0 0 0 1, 151.22277024249897, 150 
+ z"
           role="presentation"
           shapeRendering="auto"
           style={
             Object {
-              "USD": 1.2436,
-              "date": 3,
               "fill": "#455A64",
               "padding": 8,
               "stroke": "#455A64",
               "strokeWidth": 0,
             }
           }
-          transform={undefined}
         />
         <path
-          className={undefined}
-          d="M 166.66666666666666, 150
-              L 166.66666666666666, 78.05755395683454
-              A 0 0 0 0 1, 166.66666666666666, 78.05755395683454
-              L 183.33333333333334, 78.05755395683454
-              A 0 0 0 0 1, 183.33333333333334, 78.05755395683454
-              L 183.33333333333334, 150
-              L 166.66666666666666, 150
-              z"
+          d="M 166.66666666666666, 150 
+A 0 0 0 0 1, 166.66666666666666, 150 
+L 166.66666666666666, 139.13951056710076 
+A 0 0 0 0 1, 166.66666666666666, 139.13951056710076 
+L 183.33333333333334, 139.13951056710076 
+A 0 0 0 0 1, 183.33333333333334, 139.13951056710076 
+L 183.33333333333334, 150 
+A 0 0 0 0 1, 183.33333333333334, 150 
+ z"
           role="presentation"
           shapeRendering="auto"
           style={
             Object {
-              "USD": 1.2436,
-              "date": 4,
               "fill": "#455A64",
               "padding": 8,
               "stroke": "#455A64",
               "strokeWidth": 0,
             }
           }
-          transform={undefined}
         />
         <path
-          className={undefined}
-          d="M 198.777229757501, 150
-              L 198.777229757501, 78.05755395683454
-              A 0 0 0 0 1, 198.777229757501, 78.05755395683454
-              L 215.4438964241677, 78.05755395683454
-              A 0 0 0 0 1, 215.4438964241677, 78.05755395683454
-              L 215.4438964241677, 150
-              L 198.777229757501, 150
-              z"
+          d="M 198.777229757501, 150 
+A 0 0 0 0 1, 198.777229757501, 150 
+L 198.777229757501, 95.47398534637372 
+A 0 0 0 0 1, 198.777229757501, 95.47398534637372 
+L 215.4438964241677, 95.47398534637372 
+A 0 0 0 0 1, 215.4438964241677, 95.47398534637372 
+L 215.4438964241677, 150 
+A 0 0 0 0 1, 215.4438964241677, 150 
+ z"
           role="presentation"
           shapeRendering="auto"
           style={
             Object {
-              "USD": 1.2436,
-              "date": 5,
               "fill": "#455A64",
               "padding": 8,
               "stroke": "#455A64",
               "strokeWidth": 0,
             }
           }
-          transform={undefined}
         />
         <path
-          className={undefined}
-          d="M 230.88779284833538, 150
-              L 230.88779284833538, 78.3872998095573
-              A 0 0 0 0 1, 230.88779284833538, 78.3872998095573
-              L 247.55445951500207, 78.3872998095573
-              A 0 0 0 0 1, 247.55445951500207, 78.3872998095573
-              L 247.55445951500207, 150
-              L 230.88779284833538, 150
-              z"
+          d="M 230.88779284833538, 150 
+A 0 0 0 0 1, 230.88779284833538, 150 
+L 230.88779284833538, 78.05755395683454 
+A 0 0 0 0 1, 230.88779284833538, 78.05755395683454 
+L 247.55445951500207, 78.05755395683454 
+A 0 0 0 0 1, 247.55445951500207, 78.05755395683454 
+L 247.55445951500207, 150 
+A 0 0 0 0 1, 247.55445951500207, 150 
+ z"
           role="presentation"
           shapeRendering="auto"
           style={
             Object {
-              "USD": 1.2379,
-              "date": 6,
               "fill": "#455A64",
               "padding": 8,
               "stroke": "#455A64",
               "strokeWidth": 0,
             }
           }
-          transform={undefined}
         />
         <path
-          className={undefined}
-          d="M 262.99835593916976, 150
-              L 262.99835593916976, 78.14432918123526
-              A 0 0 0 0 1, 262.99835593916976, 78.14432918123526
-              L 279.6650226058364, 78.14432918123526
-              A 0 0 0 0 1, 279.6650226058364, 78.14432918123526
-              L 279.6650226058364, 150
-              L 262.99835593916976, 150
-              z"
+          d="M 262.99835593916976, 150 
+A 0 0 0 0 1, 262.99835593916976, 150 
+L 262.99835593916976, 112.95329509223076 
+A 0 0 0 0 1, 262.99835593916976, 112.95329509223076 
+L 279.6650226058364, 112.95329509223076 
+A 0 0 0 0 1, 279.6650226058364, 112.95329509223076 
+L 279.6650226058364, 150 
+A 0 0 0 0 1, 279.6650226058364, 150 
+ z"
           role="presentation"
           shapeRendering="auto"
           style={
             Object {
-              "USD": 1.2421,
-              "date": 7,
               "fill": "#455A64",
               "padding": 8,
               "stroke": "#455A64",
               "strokeWidth": 0,
             }
           }
-          transform={undefined}
         />
         <text
-          className={undefined}
+          direction="inherit"
           dx={0}
           dy={-1.0150000000000001}
-          transform={undefined}
           x={78.66831072749692}
-          y={70.54349521347862}
+          y={131.2128686494716}
         >
           <tspan
             dx={0}
-            dy={undefined}
             style={
               Object {
                 "fill": "#455A64",
@@ -997,16 +1068,14 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           </tspan>
         </text>
         <text
-          className={undefined}
+          direction="inherit"
           dx={0}
           dy={-1.0150000000000001}
-          transform={undefined}
           x={110.77887381833128}
-          y={70.22531939067595}
+          y={122.4317315275834}
         >
           <tspan
             dx={0}
-            dy={undefined}
             style={
               Object {
                 "fill": "#455A64",
@@ -1021,20 +1090,18 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             textAnchor="middle"
             x={110.77887381833128}
           >
-            1.2407
+            2.2407
           </tspan>
         </text>
         <text
-          className={undefined}
+          direction="inherit"
           dx={0}
           dy={-1.0150000000000001}
-          transform={undefined}
           x={142.88943690916562}
-          y={70.05755395683454}
+          y={113.67330047880995}
         >
           <tspan
             dx={0}
-            dy={undefined}
             style={
               Object {
                 "fill": "#455A64",
@@ -1049,20 +1116,18 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             textAnchor="middle"
             x={142.88943690916562}
           >
-            1.2436
+            3.2436
           </tspan>
         </text>
         <text
-          className={undefined}
+          direction="inherit"
           dx={0}
           dy={-1.0150000000000001}
-          transform={undefined}
           x={175}
-          y={70.05755395683454}
+          y={131.13951056710076}
         >
           <tspan
             dx={0}
-            dy={undefined}
             style={
               Object {
                 "fill": "#455A64",
@@ -1081,16 +1146,14 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           </tspan>
         </text>
         <text
-          className={undefined}
+          direction="inherit"
           dx={0}
           dy={-1.0150000000000001}
-          transform={undefined}
           x={207.11056309083435}
-          y={70.05755395683454}
+          y={87.47398534637372}
         >
           <tspan
             dx={0}
-            dy={undefined}
             style={
               Object {
                 "fill": "#455A64",
@@ -1105,20 +1168,18 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             textAnchor="middle"
             x={207.11056309083435}
           >
-            1.2436
+            6.2436
           </tspan>
         </text>
         <text
-          className={undefined}
+          direction="inherit"
           dx={0}
           dy={-1.0150000000000001}
-          transform={undefined}
           x={239.22112618166872}
-          y={70.3872998095573}
+          y={70.05755395683454}
         >
           <tspan
             dx={0}
-            dy={undefined}
             style={
               Object {
                 "fill": "#455A64",
@@ -1133,20 +1194,18 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             textAnchor="middle"
             x={239.22112618166872}
           >
-            1.2379
+            8.2379
           </tspan>
         </text>
         <text
-          className={undefined}
+          direction="inherit"
           dx={0}
           dy={-1.0150000000000001}
-          transform={undefined}
           x={271.33168927250307}
-          y={70.14432918123526}
+          y={104.95329509223076}
         >
           <tspan
             dx={0}
-            dy={undefined}
             style={
               Object {
                 "fill": "#455A64",
@@ -1161,7 +1220,7 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
             textAnchor="middle"
             x={271.33168927250307}
           >
-            1.2421
+            4.2421
           </tspan>
         </text>
       </g>
