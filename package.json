@@ -23,14 +23,20 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "coverage": "npm test -- --coverage",
+    "coverage": "yarn run test -- --coverage",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "disabled-temporary-prepublish": "yarn run snyk-protect"
   },
   "devDependencies": {
     "enzyme": "^3.8.0",
     "enzyme-adapter-react-16": "^1.7.1",
     "react-test-renderer": "^16.6.3"
   },
-  "snyk": true
+  "snyk": true,
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
