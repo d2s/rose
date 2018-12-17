@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-// aimport ReactDOM from 'react-dom';
+// import ReactDOM from 'react-dom';
+// import * as V from 'victory';
 import { VictoryBar, VictoryChart, VictoryAxis, VictoryTheme } from 'victory';
 import PropTypes from 'prop-types';
 import glamorous from 'glamorous';
@@ -14,16 +15,16 @@ import glamorous from 'glamorous';
  * - https://api.fixer.io/2018-01-24
  * - https://api.fixer.io/2018-01-30
  */
-const data = [
-  // {date: '2018-01-30', USD: 1.2421}
+ const data = [
   {date: 1, USD: 1.2352},
-  {date: 2, USD: 1.2407},
-  {date: 3, USD: 1.2436},
+  {date: 2, USD: 2.2407},
+  {date: 3, USD: 3.2436},
   {date: 4, USD: 1.2436},
-  {date: 5, USD: 1.2436},
-  {date: 6, USD: 1.2379},
-  {date: 7, USD: 1.2421}
+  {date: 5, USD: 6.2436},
+  {date: 6, USD: 8.2379},
+  {date: 7, USD: 4.2421}
 ];
+// {date: '2018-01-30', USD: 1.2421}
 
 
 // Chart content wrapper
@@ -83,7 +84,7 @@ class Chart extends Component {
             data={data}
             x="date"
             y="USD"
-            labels={(d) => `${d.y}`}
+            labels={(d) => `${d.USD}`}
             barRatio={0.6}
             style={{
               labels: {
