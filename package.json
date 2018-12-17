@@ -13,8 +13,8 @@
     "react-scripts": "2.1.1",
     "react-styleguidist": "^8.0.6",
     "react-x-ray": "^1.0.0-4",
-    "victory": "^31.0.2",
-    "snyk": "^1.116.2"
+    "snyk": "^1.117.1",
+    "victory": "^31.0.2"
   },
   "scripts": {
     "styleguide": "styleguidist server",
