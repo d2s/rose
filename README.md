@@ -6,6 +6,8 @@ _“Currency Exchange” dashboard using React_
 [![Maintainability](https://api.codeclimate.com/v1/badges/fe6d5b787b6ab5f5e871/maintainability)](https://codeclimate.com/github/d2s/rose/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/fe6d5b787b6ab5f5e871/test_coverage)](https://codeclimate.com/github/d2s/rose/test_coverage)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2364edd47e2e4ee3a05f8aefe967e64c)](https://www.codacy.com/app/d2s/rose?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=d2s/rose&amp;utm_campaign=Badge_Grade)
+[![dependencies Status](https://david-dm.org/d2s/rose/status.svg)](https://david-dm.org/d2s/rose)
+[![devDependencies Status](https://david-dm.org/d2s/rose/dev-status.svg)](https://david-dm.org/d2s/rose?type=dev)
 
 ## Local development
 
