@@ -24,7 +24,7 @@
     "test": "react-scripts test --env=jsdom",
     "test-with-coverage": "yarn run coverage && cat ./coverage/lcov.info | codacy-coverage --token",
     "eject": "react-scripts eject",
-    "coverage": "yarn run test -- --coverage",
+    "coverage": "yarn run test --coverage",
     "snyk-protect": "snyk protect",
     "prepublish": ""
   },
