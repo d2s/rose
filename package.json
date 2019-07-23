@@ -5,7 +5,7 @@
   "homepage": "https://currency.netlify.com",
   "dependencies": {
     "glamor": "^2.20.40",
-    "glamorous": "^4.11.4",
+    "glamorous": "^5.0.0",
     "prop-types": "^15.6.2",
     "ramda": "^0.26.1",
     "react": "^16.8.6",
