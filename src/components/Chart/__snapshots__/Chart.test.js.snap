@@ -23,7 +23,7 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
       role="img"
       style={
         Object {
-          "height": "100%",
+          "height": "auto",
           "pointerEvents": "all",
           "width": "100%",
         }
@@ -1228,7 +1228,7 @@ A 0 0 0 0 1, 279.6650226058364, 150
     <div
       style={
         Object {
-          "height": "100%",
+          "height": "auto",
           "left": 0,
           "position": "absolute",
           "top": 0,
@@ -1241,7 +1241,7 @@ A 0 0 0 0 1, 279.6650226058364, 150
         height={200}
         style={
           Object {
-            "height": "100%",
+            "height": "auto",
             "overflow": "visible",
             "width": "100%",
           }
