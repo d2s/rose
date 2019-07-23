@@ -60,7 +60,7 @@ Array [
                 }
               >
                 <svg
-                  aria-labelledby="victory-container-4-title victory-container-4-desc"
+                  aria-labelledby="victory-container-1-title victory-container-1-desc"
                   height={200}
                   role="img"
                   style={
@@ -1328,7 +1328,7 @@ A 0 0 0 0 1, 279.6650226058364, 150
                 }
               >
                 <svg
-                  aria-labelledby="victory-container-5-title victory-container-5-desc"
+                  aria-labelledby="victory-container-2-title victory-container-2-desc"
                   height={200}
                   role="img"
                   style={
@@ -2596,7 +2596,7 @@ A 0 0 0 0 1, 279.6650226058364, 150
                 }
               >
                 <svg
-                  aria-labelledby="victory-container-6-title victory-container-6-desc"
+                  aria-labelledby="victory-container-3-title victory-container-3-desc"
                   height={200}
                   role="img"
                   style={
