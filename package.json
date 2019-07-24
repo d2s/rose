@@ -26,7 +26,7 @@
     "eject": "react-scripts eject",
     "coverage": "yarn run test --coverage",
     "snyk-protect": "snyk protect",
-    "prepublish": ""
+    "prepublish": "npm run snyk-protect"
   },
   "devDependencies": {
     "codacy-coverage": "^3.3.0",
