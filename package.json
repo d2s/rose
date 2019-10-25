@@ -13,7 +13,7 @@
     "react-scripts": "3.0.1",
     "react-styleguidist": "^9.1.11",
     "react-x-ray": "^1.0.0-4",
-    "snyk": "^1.198.0",
+    "snyk": "^1.236.1",
     "victory": "^32.3.3"
   },
   "scripts": {
@@ -26,7 +26,7 @@
     "eject": "react-scripts eject",
     "coverage": "yarn run test --coverage",
     "snyk-protect": "snyk protect",
-    "prepublish": ""
+    "prepublish": "npm run snyk-protect"
   },
   "devDependencies": {
     "codacy-coverage": "^3.3.0",
