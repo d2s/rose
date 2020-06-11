@@ -4,17 +4,17 @@
   "private": true,
   "homepage": "https://currency.netlify.com",
   "dependencies": {
-    "glamor": "^2.20.40",
-    "glamorous": "^5.0.0",
-    "prop-types": "^15.6.2",
-    "ramda": "^0.26.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "glamor": "2.20.40",
+    "glamorous": "5.0.0",
+    "prop-types": "15.7.2",
+    "ramda": "0.26.1",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
     "react-scripts": "3.0.1",
-    "react-styleguidist": "^9.1.11",
-    "react-x-ray": "^1.0.0-4",
-    "snyk": "^1.236.1",
-    "victory": "^32.3.3"
+    "react-styleguidist": "9.1.11",
+    "react-x-ray": "1.0.0-4",
+    "snyk": "1.339.1",
+    "victory": "32.3.3"
   },
   "scripts": {
     "styleguide": "styleguidist server",
@@ -29,10 +29,10 @@
     "prepublish": "npm run snyk-protect"
   },
   "devDependencies": {
-    "codacy-coverage": "^3.3.0",
-    "enzyme": "^3.8.0",
-    "enzyme-adapter-react-16": "^1.7.1",
-    "react-test-renderer": "^16.6.3"
+    "codacy-coverage": "3.4.0",
+    "enzyme": "3.10.0",
+    "enzyme-adapter-react-16": "1.14.0",
+    "react-test-renderer": "16.8.6"
   },
   "snyk": true,
   "browserslist": [
