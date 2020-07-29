@@ -14,7 +14,7 @@
     "react-styleguidist": "11.0.8",
     "react-x-ray": "1.0.0-4",
     "snyk": "1.369.1",
-    "victory": "35.0.5"
+    "victory": "35.0.7"
   },
   "scripts": {
     "styleguide": "styleguidist server",
