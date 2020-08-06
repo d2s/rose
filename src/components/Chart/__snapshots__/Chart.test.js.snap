@@ -18,7 +18,6 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
     }
   >
     <svg
-      aria-labelledby="victory-container-2-title victory-container-2-desc"
       height={200}
       role="img"
       style={
@@ -96,16 +95,17 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           <text
             direction="inherit"
             dx={0}
-            dy={5.13}
+            id="chart-axis-0-tickLabels-0"
             x={78.66831072749692}
-            y={160}
+            y={165.13}
           >
             <tspan
               dx={0}
+              dy={0}
               style={
                 Object {
                   "fill": "#455A64",
-                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                   "fontSize": 6,
                   "letterSpacing": "normal",
                   "padding": 5,
@@ -164,16 +164,17 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           <text
             direction="inherit"
             dx={0}
-            dy={5.13}
+            id="chart-axis-0-tickLabels-1"
             x={110.77887381833128}
-            y={160}
+            y={165.13}
           >
             <tspan
               dx={0}
+              dy={0}
               style={
                 Object {
                   "fill": "#455A64",
-                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                   "fontSize": 6,
                   "letterSpacing": "normal",
                   "padding": 5,
@@ -232,16 +233,17 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           <text
             direction="inherit"
             dx={0}
-            dy={5.13}
+            id="chart-axis-0-tickLabels-2"
             x={142.88943690916562}
-            y={160}
+            y={165.13}
           >
             <tspan
               dx={0}
+              dy={0}
               style={
                 Object {
                   "fill": "#455A64",
-                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                   "fontSize": 6,
                   "letterSpacing": "normal",
                   "padding": 5,
@@ -300,16 +302,17 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           <text
             direction="inherit"
             dx={0}
-            dy={5.13}
+            id="chart-axis-0-tickLabels-3"
             x={175}
-            y={160}
+            y={165.13}
           >
             <tspan
               dx={0}
+              dy={0}
               style={
                 Object {
                   "fill": "#455A64",
-                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                   "fontSize": 6,
                   "letterSpacing": "normal",
                   "padding": 5,
@@ -368,16 +371,17 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           <text
             direction="inherit"
             dx={0}
-            dy={5.13}
+            id="chart-axis-0-tickLabels-4"
             x={207.11056309083435}
-            y={160}
+            y={165.13}
           >
             <tspan
               dx={0}
+              dy={0}
               style={
                 Object {
                   "fill": "#455A64",
-                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                   "fontSize": 6,
                   "letterSpacing": "normal",
                   "padding": 5,
@@ -436,16 +440,17 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           <text
             direction="inherit"
             dx={0}
-            dy={5.13}
+            id="chart-axis-0-tickLabels-5"
             x={239.22112618166872}
-            y={160}
+            y={165.13}
           >
             <tspan
               dx={0}
+              dy={0}
               style={
                 Object {
                   "fill": "#455A64",
-                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                   "fontSize": 6,
                   "letterSpacing": "normal",
                   "padding": 5,
@@ -504,16 +509,17 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           <text
             direction="inherit"
             dx={0}
-            dy={5.13}
+            id="chart-axis-0-tickLabels-6"
             x={271.33168927250307}
-            y={160}
+            y={165.13}
           >
             <tspan
               dx={0}
+              dy={0}
               style={
                 Object {
                   "fill": "#455A64",
-                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                   "fontSize": 6,
                   "letterSpacing": "normal",
                   "padding": 5,
@@ -594,16 +600,17 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           <text
             direction="inherit"
             dx={0}
-            dy={2.13}
+            id="chart-axis-1-tickLabels-0"
             x={40}
-            y={132.53378991170916}
+            y={134.66378991170916}
           >
             <tspan
               dx={0}
+              dy={0}
               style={
                 Object {
                   "fill": "#455A64",
-                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                   "fontSize": 6,
                   "letterSpacing": "normal",
                   "padding": 5,
@@ -662,16 +669,17 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           <text
             direction="inherit"
             dx={0}
-            dy={2.13}
+            id="chart-axis-1-tickLabels-1"
             x={40}
-            y={115.06757982341836}
+            y={117.19757982341835}
           >
             <tspan
               dx={0}
+              dy={0}
               style={
                 Object {
                   "fill": "#455A64",
-                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                   "fontSize": 6,
                   "letterSpacing": "normal",
                   "padding": 5,
@@ -730,16 +738,17 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           <text
             direction="inherit"
             dx={0}
-            dy={2.13}
+            id="chart-axis-1-tickLabels-2"
             x={40}
-            y={97.60136973512755}
+            y={99.73136973512754}
           >
             <tspan
               dx={0}
+              dy={0}
               style={
                 Object {
                   "fill": "#455A64",
-                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                   "fontSize": 6,
                   "letterSpacing": "normal",
                   "padding": 5,
@@ -798,16 +807,17 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           <text
             direction="inherit"
             dx={0}
-            dy={2.13}
+            id="chart-axis-1-tickLabels-3"
             x={40}
-            y={80.13515964683671}
+            y={82.26515964683671}
           >
             <tspan
               dx={0}
+              dy={0}
               style={
                 Object {
                   "fill": "#455A64",
-                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                   "fontSize": 6,
                   "letterSpacing": "normal",
                   "padding": 5,
@@ -866,16 +876,17 @@ exports[`<Chart /> with Snapshot Testing renders the same way 1`] = `
           <text
             direction="inherit"
             dx={0}
-            dy={2.13}
+            id="chart-axis-1-tickLabels-4"
             x={40}
-            y={62.668949558545904}
+            y={64.7989495585459}
           >
             <tspan
               dx={0}
+              dy={0}
               style={
                 Object {
                   "fill": "#455A64",
-                  "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                  "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                   "fontSize": 6,
                   "letterSpacing": "normal",
                   "padding": 5,
@@ -1044,16 +1055,17 @@ A 0 0 0 0 1, 279.6650226058364, 150
         <text
           direction="inherit"
           dx={0}
-          dy={-1.0150000000000001}
+          id="chart-bar-2-labels-0"
           x={78.66831072749692}
-          y={131.2128686494716}
+          y={130.19786864947162}
         >
           <tspan
             dx={0}
+            dy={0}
             style={
               Object {
                 "fill": "#455A64",
-                "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                 "fontSize": 7,
                 "letterSpacing": "normal",
                 "padding": 8,
@@ -1064,22 +1076,23 @@ A 0 0 0 0 1, 279.6650226058364, 150
             textAnchor="middle"
             x={78.66831072749692}
           >
-            1.2352
+            undefined
           </tspan>
         </text>
         <text
           direction="inherit"
           dx={0}
-          dy={-1.0150000000000001}
+          id="chart-bar-2-labels-1"
           x={110.77887381833128}
-          y={122.4317315275834}
+          y={121.4167315275834}
         >
           <tspan
             dx={0}
+            dy={0}
             style={
               Object {
                 "fill": "#455A64",
-                "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                 "fontSize": 7,
                 "letterSpacing": "normal",
                 "padding": 8,
@@ -1090,22 +1103,23 @@ A 0 0 0 0 1, 279.6650226058364, 150
             textAnchor="middle"
             x={110.77887381833128}
           >
-            2.2407
+            undefined
           </tspan>
         </text>
         <text
           direction="inherit"
           dx={0}
-          dy={-1.0150000000000001}
+          id="chart-bar-2-labels-2"
           x={142.88943690916562}
-          y={113.67330047880995}
+          y={112.65830047880995}
         >
           <tspan
             dx={0}
+            dy={0}
             style={
               Object {
                 "fill": "#455A64",
-                "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                 "fontSize": 7,
                 "letterSpacing": "normal",
                 "padding": 8,
@@ -1116,22 +1130,23 @@ A 0 0 0 0 1, 279.6650226058364, 150
             textAnchor="middle"
             x={142.88943690916562}
           >
-            3.2436
+            undefined
           </tspan>
         </text>
         <text
           direction="inherit"
           dx={0}
-          dy={-1.0150000000000001}
+          id="chart-bar-2-labels-3"
           x={175}
-          y={131.13951056710076}
+          y={130.12451056710074}
         >
           <tspan
             dx={0}
+            dy={0}
             style={
               Object {
                 "fill": "#455A64",
-                "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                 "fontSize": 7,
                 "letterSpacing": "normal",
                 "padding": 8,
@@ -1142,22 +1157,23 @@ A 0 0 0 0 1, 279.6650226058364, 150
             textAnchor="middle"
             x={175}
           >
-            1.2436
+            undefined
           </tspan>
         </text>
         <text
           direction="inherit"
           dx={0}
-          dy={-1.0150000000000001}
+          id="chart-bar-2-labels-4"
           x={207.11056309083435}
-          y={87.47398534637372}
+          y={86.45898534637372}
         >
           <tspan
             dx={0}
+            dy={0}
             style={
               Object {
                 "fill": "#455A64",
-                "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                 "fontSize": 7,
                 "letterSpacing": "normal",
                 "padding": 8,
@@ -1168,22 +1184,23 @@ A 0 0 0 0 1, 279.6650226058364, 150
             textAnchor="middle"
             x={207.11056309083435}
           >
-            6.2436
+            undefined
           </tspan>
         </text>
         <text
           direction="inherit"
           dx={0}
-          dy={-1.0150000000000001}
+          id="chart-bar-2-labels-5"
           x={239.22112618166872}
-          y={70.05755395683454}
+          y={69.04255395683454}
         >
           <tspan
             dx={0}
+            dy={0}
             style={
               Object {
                 "fill": "#455A64",
-                "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                 "fontSize": 7,
                 "letterSpacing": "normal",
                 "padding": 8,
@@ -1194,22 +1211,23 @@ A 0 0 0 0 1, 279.6650226058364, 150
             textAnchor="middle"
             x={239.22112618166872}
           >
-            8.2379
+            undefined
           </tspan>
         </text>
         <text
           direction="inherit"
           dx={0}
-          dy={-1.0150000000000001}
+          id="chart-bar-2-labels-6"
           x={271.33168927250307}
-          y={104.95329509223076}
+          y={103.93829509223076}
         >
           <tspan
             dx={0}
+            dy={0}
             style={
               Object {
                 "fill": "#455A64",
-                "fontFamily": "'Roboto', 'Helvetica Neue', Helvetica, sans-serif",
+                "fontFamily": "'Helvetica Neue', 'Helvetica', sans-serif",
                 "fontSize": 7,
                 "letterSpacing": "normal",
                 "padding": 8,
@@ -1220,7 +1238,7 @@ A 0 0 0 0 1, 279.6650226058364, 150
             textAnchor="middle"
             x={271.33168927250307}
           >
-            4.2421
+            undefined
           </tspan>
         </text>
       </g>
