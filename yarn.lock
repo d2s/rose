@@ -6184,10 +6184,10 @@ d3-array@^1.2.0:
   resolved "https://registry.yarnpkg.com/d3-array/-/d3-array-1.2.4.tgz#635ce4d5eea759f6f605863dbcfc30edc737f71f"
   integrity sha512-KHW6M86R+FUPYGb3R5XiYjXPq7VzwxZ22buHhAEVG5ztoEcZZMLov530mmccaqA1GghZArjQV46fuc8kUqhhHw==
 
-d3-array@^2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/d3-array/-/d3-array-2.4.0.tgz#87f8b9ad11088769c82b5ea846bcb1cc9393f242"
-  integrity sha512-KQ41bAF2BMakf/HdKT865ALd4cgND6VcIztVQZUTt0+BH3RWy6ZYnHghVXf6NFjt2ritLr8H1T8LreAAlfiNcw==
+d3-array@~2.3.0:
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/d3-array/-/d3-array-2.3.3.tgz#e90c39fbaedccedf59fc30473092f99a0e14efa2"
+  integrity sha512-syv3wp0U5aB6toP2zb2OdBkhTy1MWDsCAaYk6OXJZv+G4u7bSWEmYgxLoFyc88RQUhZYGCebW9a9UD1gFi5+MQ==
 
 d3-collection@1:
   version "1.0.7"
@@ -17241,10 +17241,10 @@ victory-box-plot@^35.8.1:
     prop-types "^15.5.8"
     victory-core "^35.8.1"
 
-victory-brush-container@^35.8.1:
-  version "35.8.1"
-  resolved "https://registry.yarnpkg.com/victory-brush-container/-/victory-brush-container-35.8.1.tgz#9769760f42509a8f7062284690356edf0ce35e7c"
-  integrity sha512-vIPbWvxTu2T0z4lLFQI7miNwiutBJJquQR0WW0hewsGktw7Eir2VJ5sLLUyDwBF9T2gvj49HT0jrBwi/j90dsw==
+victory-brush-container@^35.8.5:
+  version "35.8.5"
+  resolved "https://registry.yarnpkg.com/victory-brush-container/-/victory-brush-container-35.8.5.tgz#ca195421e65eb1da15a3e1208454c85aea34678a"
+  integrity sha512-BrwH8GMdsQAENnnnjXRli8rSTMpVdesk84gU5OVuWfjllfcE7XOPJN1YvuvAbU7Dn8wO3IQlaKf9YpOGX0zA3g==
   dependencies:
     lodash "^4.17.19"
     prop-types "^15.5.8"
@@ -17297,13 +17297,13 @@ victory-core@^35.8.1:
     prop-types "^15.5.8"
     react-fast-compare "^2.0.0"
 
-victory-create-container@^35.8.4:
-  version "35.8.4"
-  resolved "https://registry.yarnpkg.com/victory-create-container/-/victory-create-container-35.8.4.tgz#a5a99bbd7838ff86d18151d7483e25f0ff954e7a"
-  integrity sha512-HZuVeF3KfAXQBkikKeRFr8Tr5BLEJv2IpNyyUQhTFiSp61Qo9YMzc/ototkQebpwRBaxQqc0h208Fhq6qsDa0A==
+victory-create-container@^35.8.5:
+  version "35.8.5"
+  resolved "https://registry.yarnpkg.com/victory-create-container/-/victory-create-container-35.8.5.tgz#bc0f316d5c60fca1f92cb635e8ecfa51d63fe39b"
+  integrity sha512-GJsIB/T3UbCS7nL+78nhHMnFeMt5a4ixi49BUx+PBLWTqAkrHuY3baoxG5HiNjQPt5XmRWCUqNu3aO/iWjeuCQ==
   dependencies:
     lodash "^4.17.19"
-    victory-brush-container "^35.8.1"
+    victory-brush-container "^35.8.5"
     victory-core "^35.8.1"
     victory-cursor-container "^35.8.1"
     victory-selection-container "^35.8.1"
@@ -17339,12 +17339,12 @@ victory-group@^35.8.1:
     victory-core "^35.8.1"
     victory-shared-events "^35.8.1"
 
-victory-histogram@^35.8.1:
-  version "35.8.1"
-  resolved "https://registry.yarnpkg.com/victory-histogram/-/victory-histogram-35.8.1.tgz#f6e67b54d17ba9f5229deea09595522c7a5c04b9"
-  integrity sha512-fm792r930R0ts2awc5AUcK2vvy/kWTr2o+XgG+S7sGm9DHKx+2YdxAjf7ibN2RBomo0D4oG6dYJxnR/liFB9Rw==
+victory-histogram@^35.8.6:
+  version "35.8.6"
+  resolved "https://registry.yarnpkg.com/victory-histogram/-/victory-histogram-35.8.6.tgz#ce6029fc6e8a24a91b04a2ffe8d4f85b56057bdb"
+  integrity sha512-aWLznHjs4Ydf8UgGmPupXkPQdRAuANtLhKZiJ5rq0oN7GjT7ReVJHSP9KcQALyBDYaMf2TX/l2Eoy4AIG4eluw==
   dependencies:
-    d3-array "^2.4.0"
+    d3-array "~2.3.0"
     d3-scale "^1.0.0"
     lodash "^4.17.19"
     prop-types "^15.5.8"
@@ -17470,25 +17470,25 @@ victory-zoom-container@^35.8.1:
     prop-types "^15.5.8"
     victory-core "^35.8.1"
 
-victory@35.8.4:
-  version "35.8.4"
-  resolved "https://registry.yarnpkg.com/victory/-/victory-35.8.4.tgz#de0871489251613f9169a1770f348a66df96a0fc"
-  integrity sha512-DZRFy924BscJciVkEteBy9gqIZIhrsFN2yRP3FbMtcUwHQG5zyBjdUidgTnOlpdQqxLldcREpCxPQh8Q5fqqUw==
+victory@35.8.6:
+  version "35.8.6"
+  resolved "https://registry.yarnpkg.com/victory/-/victory-35.8.6.tgz#36145150c1e86ea71fd477093b53b90637a0c9c3"
+  integrity sha512-v40AvZZpXelxV5KyLdrs5/zsk2KtgnFpXsOF/EzwiRcpY3XSjuvVxEB5mHQoQTd9hoCN+MGrqeSxwPYHrMR2wQ==
   dependencies:
     victory-area "^35.8.2"
     victory-axis "^35.8.3"
     victory-bar "^35.8.1"
     victory-box-plot "^35.8.1"
-    victory-brush-container "^35.8.1"
+    victory-brush-container "^35.8.5"
     victory-brush-line "^35.8.1"
     victory-candlestick "^35.8.1"
     victory-chart "^35.8.3"
     victory-core "^35.8.1"
-    victory-create-container "^35.8.4"
+    victory-create-container "^35.8.5"
     victory-cursor-container "^35.8.1"
     victory-errorbar "^35.8.1"
     victory-group "^35.8.1"
-    victory-histogram "^35.8.1"
+    victory-histogram "^35.8.6"
     victory-legend "^35.8.1"
     victory-line "^35.8.1"
     victory-pie "^35.8.1"
