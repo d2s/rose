@@ -13,7 +13,7 @@
     "react-scripts": "4.0.3",
     "react-styleguidist": "11.1.7",
     "react-x-ray": "1.0.0-4",
-    "snyk": "1.622.0",
+    "snyk": "1.642.0",
     "victory": "35.8.6"
   },
   "scripts": {
